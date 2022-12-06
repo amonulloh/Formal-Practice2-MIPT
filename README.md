@@ -7,7 +7,7 @@
 ```bash
 git clone https://github.com/amonulloh/Formal-Practice2-MIPT/tree/earley_algorithm
 ```
-+ **Настроить CMakeLists.txt:**
+
 + **Локальное тестирование:**
  ```bash
  g++ main.cpp -o run
