@@ -5,7 +5,7 @@
 
 + **Клонировать репозиторий с github:**
 ```bash
-git clone https://github.com/amonulloh/myFirstGame/tree/checkpoint_3
+git clone https://github.com/amonulloh/Formal-Practice2-MIPT/tree/earley_algorithm
 ```
 + **Настроить CMakeLists.txt:**
 + **Локальное тестирование:**
