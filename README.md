@@ -14,7 +14,7 @@ git clone https://github.com/amonulloh/myFirstGame/tree/checkpoint_3
  ./run
  ```
 + **Полное тестирование:**
-#####Сначала нужно комментировать функцию main в main.cpp затем:
+ Сначала нужно комментировать функцию main в main.cpp затем:
  ```bash
  mkdir build
  cd build
